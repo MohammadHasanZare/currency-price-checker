@@ -1,13 +1,5 @@
 <?php
-require 'path/to/plugin-update-checker/plugin-update-checker.php';
-use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
-
-$myUpdateChecker = PucFactory::buildUpdateChecker(
-    'https://example.com/path/to/details.json',
-    __FILE__,
-    'unique-plugin-or-theme-slug'
-);
 
 /*
 Plugin Name: Currency Price Checker
