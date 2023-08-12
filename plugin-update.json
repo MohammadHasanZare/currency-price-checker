@@ -1,0 +1,8 @@
+{
+    "name": "currency price checker",
+    "version": "2.1",
+    "download_url": "https://github.com/MohammadHasanZare/currency-price-checker/archive/refs/heads/main.zip",
+    "sections": {
+        "description": "Plugin description here."
+    }
+}
